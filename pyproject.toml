@@ -1,0 +1,16 @@
+name = "CryptMyRepl"
+version = "1.0"
+description = "A command-line tool to make your repl private."
+license = "MIT"
+authors = [
+    "BlueRed",
+]
+
+[tool.poetry]
+readme = "README.md"
+homepage = "https://github.com/CSM-BlueRed/CryptMyRepl"
+repository = "https://github.com/CSM-BlueRed/CryptMyRepl"
+keywords = ["replit", "obfuscation", "encryption"]
+
+[tool.poetry.dependencies]
+python = "^3.7"
